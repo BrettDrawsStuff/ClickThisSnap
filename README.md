@@ -1,4 +1,4 @@
-# Click This — Farcaster Snap
+# Click This — A Farcaster Snap
 
 A minimal two-screen Farcaster Snap. Screen 1 shows a "testing" button. Clicking it reveals `image.png`.
 
